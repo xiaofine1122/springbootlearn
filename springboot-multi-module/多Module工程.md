@@ -139,7 +139,8 @@ service.message=Hello, World
 #### 测试
 启动 Application 下的 Application 类 
 访问  http://localhost:8080/
-![187252da36a9899e92a967bb6a55b6c3.png](en-resource://database/1247:1)
+
+![1](../images/module1.png)
 
 说明确实引用了libary中的方法。
 
