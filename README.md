@@ -8,10 +8,6 @@
 
 <br>
 
-
-## 目标与哲学
-整理学习SpringBoot时的笔记以及工程，并记录了学习的遇到的问题。
-
 ## 目录
 1.[构建第一个SpringBoot工程](springboot-first/构建第一个.md)
 
