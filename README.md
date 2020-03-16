@@ -59,7 +59,7 @@
 
 主要参考教程：
 
-[方志鹏的博客](https://www.fangzhipeng.com/)
+[方志朋的博客](https://www.fangzhipeng.com/)
 
 [Spring|Guides](https://spring.io/guides)
 
