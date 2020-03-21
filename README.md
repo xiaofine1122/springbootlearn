@@ -15,23 +15,23 @@
 
 3.[SpringBoot 整合JPA](springboot-jpa/整合JPA.md)
 
-4.[springboot整合mybatis](springboot-mybatis/整合mybatis.md)
+4.[SpringBoot整合mybatis](springboot-mybatis/整合mybatis.md)
 
-5.[springboot开启声明式事务](springboot-mybatis/声明式事务.md)
+5.[SpringBoot开启声明式事务](springboot-mybatis/声明式事务.md)
 
-6.[springboot整合mongodb](springboot-mongodb/整合MongoDB.md)
+6.[SpringBoot整合mongodb](springboot-mongodb/整合MongoDB.md)
 
-7.[springboot整合Redis](springboot-redis/整合Redis.md)
+7.[SpringBoot整合Redis](springboot-redis/整合Redis.md)
 
 8.[用spring Restdocs创建API文档](springboot-restdoc/整合restdoc.md)
 
-9.[springboot集成swagger2，构建优雅的Restful API](springboot-swagger/整合swagger2.md)
+9.[SpringBoot集成swagger2，构建优雅的Restful API](springboot-swagger/整合swagger2.md)
 
-10.[springboot集成apidoc](springboot-apidoc/使用apidoc.md)
+10.[SpringBoot集成apidoc](springboot-apidoc/使用apidoc.md)
 
-11.[springboot集成spring cache](springboot-cache/使用springcache.md)
+11.[SpringBoot集成spring cache](springboot-cache/使用springcache.md)
 
-12.[在springboot中用redis实现消息队列](springboot-redis/Redis实现消息队列.md)
+12.[在SpringBoot中用redis实现消息队列](springboot-redis/Redis实现消息队列.md)
 
 13.[Springboot整合RabbitMQ](springboot-rabbitmq/整合Rabbitmq.md)
 
@@ -49,7 +49,7 @@
 
 20.[异步方法](springboot-async/异步方法.md)
 
-21.[springboot整合docker](springboot-docker/整合docker.md)
+21.[SpringBoot整合docker](springboot-docker/整合docker.md)
 
 ## 致谢
 
